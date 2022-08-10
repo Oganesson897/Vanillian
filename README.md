@@ -1,2 +1,0 @@
-# Vanillian
-a food mod.
